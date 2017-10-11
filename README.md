@@ -4,6 +4,5 @@ They serve as mouth piece for the citizens of Ghana. IMANI GHANA uses effective 
 civil society in shaping national, regional and global agenda to close the citizen gap in governance. 
 Here we scrap data from their facebook page for how they are growing popularity as in how their post is liked, commented and 
 shared. 
-After first four months (First Quarter), IMANI GHANA wanted to know the rating given by the citizen for the newly elected president NANA ADDO
-DANKWA AKUFFO.
+Moreover, we used citizen ratings to access perfomance of the newly elected president NANA ADDO DANKWA AKUFFO.  
 We scrapped data on that post and give a bar plot on the ratings.
