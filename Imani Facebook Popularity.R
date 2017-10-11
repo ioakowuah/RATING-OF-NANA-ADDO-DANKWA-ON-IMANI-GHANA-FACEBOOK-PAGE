@@ -13,7 +13,7 @@ library("scales")
 ###########
 #Download 1000 posts from facebook Imani Page
 ###########
-Imani<-getPage("160393377315912",token,n=1000)
+Imani<-getPage("***********",token,n=1000)
 
 #########
 ####Plot of trend of popularity in terms of likes, comments and shares
@@ -48,7 +48,7 @@ Imani[which.max(Imani$shares_count),]
 ##############
 #Download post of maximum comments
 ##############
-ImaniCO<-getPage("160393377315912",token,since ='2017/04/13',until = '2017/04/14')
+ImaniCO<-getPage("*************",token,since ='2017/04/13',until = '2017/04/14')
 
 ############
 ####Numbering of posts on the single day
